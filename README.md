@@ -27,54 +27,8 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
 <code>
-<template>
-  <div id="app">
-   <h1>{{title}}</h1>
-     
-   <Navbar />
-
-  <div class="functional" >
-    
   
-    <div class="left">
-<ul>
-     <li>Nesting Component</li>
-     <li>Comunicating between components via parent component</li>
-     <li>Scoped Css</li>
-     <li>Passing Data with Props</li>
-     <li>Custom Events</li>
-     <li>Life-cycle Hooks</li>
-     <li>Making JSON api Requests with Axios / Ajax Request</li>
-    <li>Filter</li>
-    <li> Computed Properties (custom search box)
-</li>
-   </ul>
-      </div>
-         <p>Click of each item, then it will removed from the list</p> 
-   <div class="left"> 
-      <AllFriends :friends="friends" @delete="deleteFriend"/>
-   </div>
-    <div class="left">
-      <OnlineFriends  :friends="friends"/>
-    
-   </div>
-   <div class="clearfix"></div>
-   </div>
-
-
-
-    <Blogs />
-  
-  
-  </div>
-</template>
-
-</code>
-
-<code>
-<script>
 import Navbar from "./Navbar";
 
 import AllFriends from "./AllFriends";
@@ -113,8 +67,6 @@ export default {
     }
   }
 }
-</script>
-
-</code>
+  </code>
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 "# Sample-Blog-By-Vue.js" 
