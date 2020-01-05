@@ -27,15 +27,11 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-<code>
-  
+<code>  
 import Navbar from "./Navbar";
-
 import AllFriends from "./AllFriends";
-
 import OnlineFriends from "./OnlineFriends";
 import Blogs from "./Blogs";
-
 export default {
   name: 'app',
   components:{
@@ -48,14 +44,11 @@ export default {
     return {
       title: 'Single page and Sample Blog Site by Vue.js',
        friends:[
-
                 {name: 'Sunny', online:true},
                 {name: 'Kaniz', online:false},
                 {name: 'Yellin', online:true},
                 {name: 'Bros', online:false}
-                
             ]
-      
     }
   },
   methods:{
