@@ -71,6 +71,9 @@ npm run build
   </div>
 </template>
 
+</code>
+
+<code>
 <script>
 import Navbar from "./Navbar";
 
@@ -111,7 +114,7 @@ export default {
   }
 }
 </script>
-</code>
 
+</code>
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 "# Sample-Blog-By-Vue.js" 
