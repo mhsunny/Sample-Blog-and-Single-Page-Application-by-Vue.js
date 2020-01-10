@@ -1,8 +1,8 @@
 #  Sample Blog Posts Vue.js
 
-> Sample Blog posts and Single age Applicatin with Vue js example
+> Sample Blog posts and Single age Applicatin with Vue js example. At this porect, I try to communicate from parent component to childs , child to child, and child to partents. Also we have to handle the AJAX request to get from JSON api. Alos we can show list of posts and seach by ussing Computed property of vuse js.
 
-<h3>here are some real eaxampe of using the follwing vue js things</h3>
+<h3>SHere are some real eaxampe of the follwings vue js components</h3>
 
 <ul>
      <li>Nesting Component</li>
