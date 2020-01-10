@@ -1,8 +1,9 @@
-# Sample-Blog-and-Single-Page-Application-by-Vue.js
+#  Sample Blog Posts Vue.js
 
-> Sample-Blog-and-Single-Page-Application-by-Vue
+> Sample Blog posts and Single age Applicatin with Vue js example
 
-<h3>I try to cover the following basic of vue js</h3>
+<h3>here are some real eaxampe of using the follwing vue js things</h3>
+
 <ul>
      <li>Nesting Component</li>
      <li>Comunicating between components via parent component</li>
